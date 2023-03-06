@@ -55,11 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-<<<<<<< HEAD
-            --baseURL "https://education.launchcode.org/csharp-web-dev-curriculum/"
-=======
             --baseURL "${{ steps.pages.outputs.base_url }}/"
->>>>>>> bf12aba8f405f6ab7ab7b9588f610fa4ed871b0e
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -69,11 +65,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-<<<<<<< HEAD
-      url: https://education.launchcode.org/csharp-web-dev-curriculum/
-=======
       url: ${{ steps.deployment.outputs.page_url }}
->>>>>>> bf12aba8f405f6ab7ab7b9588f610fa4ed871b0e
     runs-on: ubuntu-latest
     needs: build
     steps:
