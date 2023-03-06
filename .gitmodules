@@ -1,0 +1,15 @@
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn
+[submodule "data-analysis/themes/hugo-theme-relearn"]
+	path = data-analysis/themes/hugo-theme-relearn
+	url = https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn
+[submodule "data-analysis/layouts"]
+	path = data-analysis/layouts
+	url = https://github.com/LaunchCode-Hugo-Submodules/layouts
+[submodule "data-analysis/static"]
+	path = data-analysis/static
+	url = https://github.com/LaunchCode-Hugo-Submodules/static
+[submodule "data-analysis/archetypes"]
+	path = data-analysis/archetypes
+	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
