@@ -1,15 +1,19 @@
 ---
-title: "Getting Started"
+title: Course Overiew
 date: 2023-01-31T15:39:38-06:00
 draft: false
-weight: 1
-originalAuthor: Rob Thomas # to be set by page creator
-originalAuthorGitHub: icre8FreeCode # to be set by page creator
-reviewer: Kimberly Horan # to be set by the page reviewer
-reviewerGitHub: codinglikeagirl42 # to be set by the page reviewer
+weight: 1000
+originalAuthor: Rob Thomas
+originalAuthorGitHub: icre8FreeCode
+reviewer: Kimberly Horan
+reviewerGitHub: codinglikeagirl42
 lastEditor: # update any time edits are made after review
+  null
 lastEditorGitHub: # update any time edits are made after review
+  null
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
+  null
+lastmod: 2023-03-10T21:36:22.442Z
 ---
 
 ## Business Case 

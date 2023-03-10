@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercises on Data Analysis</title>
+    <link>https://education.launchcode.org/course-overview/exercises/index.html</link>
+    <description>Recent content in Exercises on Data Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 15:20:44 -0600</lastBuildDate><atom:link href="https://education.launchcode.org/course-overview/exercises/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exercise Example 1</title>
+      <link>https://education.launchcode.org/course-overview/exercises/example-1/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/exercises/example-1/index.html</guid>
+      <description>Example-1 </description>
+    </item>
+    <item>
+      <title>Exercise Example 2</title>
+      <link>https://education.launchcode.org/course-overview/exercises/example-2/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/exercises/example-2/index.html</guid>
+      <description>Example-2 </description>
+    </item>
+  </channel>
+</rss>

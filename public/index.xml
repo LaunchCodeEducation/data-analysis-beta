@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis</title>
+    <link>https://education.launchcode.org/index.html</link>
+    <description>Recent content on Data Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 15:20:44 -0600</lastBuildDate><atom:link href="https://education.launchcode.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://education.launchcode.org/course-overview/index.html</link>
+      <pubDate>Tue, 31 Jan 2023 15:39:38 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/index.html</guid>
+      <description>Business Case The purpose of this course is to provide learners with a basic understanding of Data Analysis. Its conception was born from partnerships we have and industry need for Data Analysis professionals. This is a 24 week or 45 week specialized track for job-readiness and apprenticeship training program. This course introduction should provide learners with a strong foundation in Data Analysis and a basic introduction to statistics and put them on the learning track for becoming a Data Science Engineer, Business Analysis or Data Analyst.</description>
+    </item>
+  </channel>
+</rss>
