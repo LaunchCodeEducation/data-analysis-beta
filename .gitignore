@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.swp
+hugo_init.sh
 
 # Spyder project settings
 .spyderproject

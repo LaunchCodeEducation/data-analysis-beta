@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walkthrough on Data Analysis</title>
+    <link>https://education.launchcode.org/course-overview/walkthrough/index.html</link>
+    <description>Recent content in Walkthrough on Data Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 15:20:44 -0600</lastBuildDate><atom:link href="https://education.launchcode.org/course-overview/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step 1</title>
+      <link>https://education.launchcode.org/course-overview/walkthrough/walkthrough-step1/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/walkthrough/walkthrough-step1/index.html</guid>
+      <description>Step 1 </description>
+    </item>
+    <item>
+      <title>Step 2</title>
+      <link>https://education.launchcode.org/course-overview/walkthrough/walkthrough-step2/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/walkthrough/walkthrough-step2/index.html</guid>
+      <description>Step 2 </description>
+    </item>
+  </channel>
+</rss>

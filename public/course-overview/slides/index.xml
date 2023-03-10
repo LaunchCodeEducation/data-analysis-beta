@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Data Analysis</title>
+    <link>https://education.launchcode.org/course-overview/slides/index.html</link>
+    <description>Recent content in Slides on Data Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 15:20:44 -0600</lastBuildDate><atom:link href="https://education.launchcode.org/course-overview/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slides: Fullscreen</title>
+      <link>https://education.launchcode.org/course-overview/slides/fullscreen/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/slides/fullscreen/index.html</guid>
+      <description> Slide Deck Title Slide 1 Slide 1 Vertical Slide Slide 2 Slide 2 Verticial Slide </description>
+    </item>
+  </channel>
+</rss>

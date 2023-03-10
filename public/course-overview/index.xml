@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Data Analysis</title>
+    <link>https://education.launchcode.org/course-overview/index.html</link>
+    <description>Recent content in Getting Started on Data Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2023 15:39:38 -0600</lastBuildDate><atom:link href="https://education.launchcode.org/course-overview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slides</title>
+      <link>https://education.launchcode.org/course-overview/slides/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/slides/index.html</guid>
+      <description>NoteThe slides found at this location are meant to be used in personal reference. If you are reading these slides for the first time, or are presenting these slides we recommended using the Fullscreen option found below.
+Fullscreen## Slide Deck Title---## Slide 1___### Slide 1 Vertical Slide---## Slide 2___### Slide 2 Verticial Slide</description>
+    </item>
+    <item>
+      <title>Walkthrough</title>
+      <link>https://education.launchcode.org/course-overview/walkthrough/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/walkthrough/index.html</guid>
+      <description>Walkthrough Step 1Step 2</description>
+    </item>
+    <item>
+      <title>Exercises</title>
+      <link>https://education.launchcode.org/course-overview/exercises/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/exercises/index.html</guid>
+      <description>Exercises Exercise Example 1Exercise Example 2</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>https://education.launchcode.org/course-overview/next-steps/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/next-steps/index.html</guid>
+      <description>Next Steps </description>
+    </item>
+    <item>
+      <title>Course Overview</title>
+      <link>https://education.launchcode.org/course-overview/example/index.html</link>
+      <pubDate>Mon, 06 Mar 2023 15:20:44 -0600</pubDate>
+      <guid>https://education.launchcode.org/course-overview/example/index.html</guid>
+      <description>Major Concepts &amp;amp; Key Terminology Content Links </description>
+    </item>
+  </channel>
+</rss>
