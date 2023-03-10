@@ -28,4 +28,3 @@ The prework is designed to help you install and configure your OS environments
 
 ## Course Outline 
 
-{{% children %}}
