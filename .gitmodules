@@ -13,3 +13,12 @@
 [submodule "data-analysis/archetypes"]
 	path = data-analysis/archetypes
 	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
+[submodule "static"]
+	path = static
+	url = https://github.com/LaunchCode-Hugo-Submodules/static
+[submodule "archetypes"]
+	path = archetypes
+	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
+[submodule "layouts"]
+	path = layouts
+	url = https://github.com/LaunchCode-Hugo-Submodules/layouts
