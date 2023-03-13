@@ -9,3 +9,7 @@
 [submodule "archetypes"]
 	path = archetypes
 	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
+	
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
+	url = https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn
