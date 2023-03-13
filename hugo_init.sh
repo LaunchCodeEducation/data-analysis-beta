@@ -96,8 +96,7 @@ cd $project_name
 
 git init
 
-git submodule add https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn themes/hugo-theme-relearn
-
+git submodule add https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn themes
 echo 'theme = "hugo-theme-relearn"' >> config.toml
 
 rm -rf layouts

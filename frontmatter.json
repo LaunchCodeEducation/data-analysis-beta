@@ -13,5 +13,6 @@
       "title": "course-overview",
       "path": "[[workspace]]/content/course-overview"
     }
-  ]
+  ],
+  "frontMatter.preview.host": "http://localhost:1313"
 }
