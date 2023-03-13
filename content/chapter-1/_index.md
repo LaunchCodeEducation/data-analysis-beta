@@ -25,4 +25,3 @@ This chapter outline provides a basic introduction to the key concepts, terms an
 * Describe how Machine Learning (ML) works
 * Knowledge of other specialize topics associated with data analysis 
 
-{{% children %}}
