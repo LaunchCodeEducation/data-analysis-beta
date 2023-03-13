@@ -1,14 +1,14 @@
-[submodule "data-analysis/themes/hugo-theme-relearn"]
-	path = data-analysis/themes/hugo-theme-relearn
+[submodule "themes/hugo-theme-relearn"]
+	path = themes/hugo-theme-relearn
 	url = https://github.com/LaunchCode-Hugo-Submodules/hugo-theme-relearn
-[submodule "data-analysis/layouts"]
-	path = data-analysis/layouts
+[submodule "layouts"]
+	path = layouts
 	url = https://github.com/LaunchCode-Hugo-Submodules/layouts
-[submodule "data-analysis/static"]
-	path = data-analysis/static
+[submodule "static"]
+	path = static
 	url = https://github.com/LaunchCode-Hugo-Submodules/static
-[submodule "data-analysis/archetypes"]
-	path = data-analysis/archetypes
+[submodule "archetypes"]
+	path = archetypes
 	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
 [submodule "layouts"]
 	path = layouts
