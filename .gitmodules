@@ -10,5 +10,4 @@
 [submodule "archetypes"]
 	path = archetypes
 	url = https://github.com/LaunchCode-Hugo-Submodules/archetypes
-[submodule "layouts"]
-	path = layouts
+
