@@ -8,11 +8,8 @@ originalAuthorGitHub: icre8FreeCode
 reviewer: Kimberly Horan
 reviewerGitHub: codinglikeagirl42
 lastEditor: # update any time edits are made after review
-  null
 lastEditorGitHub: # update any time edits are made after review
-  null
 lastMod: # UPDATE ANY TIME CHANGES ARE MADE
-  null
 lastmod: 2023-03-10T19:24:53.339Z
 ---
 
